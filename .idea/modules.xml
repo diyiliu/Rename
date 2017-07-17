@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rename.iml" filepath="$PROJECT_DIR$/.idea/modules/Rename.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rename_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rename_main.iml" group="Rename" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rename_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rename_test.iml" group="Rename" />
+    </modules>
+  </component>
+</project>
